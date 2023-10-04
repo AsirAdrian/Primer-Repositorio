@@ -2,7 +2,7 @@
     <html>
         <body>
             <?php
-                echo "My firsts PHP script";
+                echo "My first PHP script";
                 ?>
         </body>
     </html>
